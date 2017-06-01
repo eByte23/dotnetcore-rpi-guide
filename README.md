@@ -1,6 +1,11 @@
 # dotnetcore-rpi-guide
 How to run dotnet core on a raspberry pi
 
+All info found here https://github.com/dotnet/core/blob/master/samples/RaspberryPiInstructions.md
+
+### RaspberryPi Pre-req
+```sudo apt-get install -y libunwind8 libunwind8-dev gettext libicu-dev liblttng-ust-dev liblttng-ust-dev libcurl4-openssl-dev libssl-dev uuid-dev unzip```
+
 
 ### Note: Currently only Raspbery Pi 2 & 3 are supported
 It seems as though currently the pi 1 and pi zero's are unsupported due to the absense of hardware floating point.
