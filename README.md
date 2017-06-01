@@ -11,7 +11,7 @@ However you can build and publish on any other platform targeting your applicati
 
 ### How to get started
 
-To get started download the latest version or .Net Core 2.0 (currently in preview) here [Dot.Net preview link]https://www.microsoft.com/net/core/preview#windowscmd or [github .net releases]https://github.com/dotnet/core/blob/master/release-notes/download-archives/2.0.0-preview1-download.md
+To get started download the latest version or .Net Core 2.0 (currently in preview) here https://www.microsoft.com/net/core/preview#windowscmd or https://github.com/dotnet/core/blob/master/release-notes/download-archives/2.0.0-preview1-download.md
 
 Once you have install this you can now go ahead and either re-target your current .net core app or create a new one.
 
